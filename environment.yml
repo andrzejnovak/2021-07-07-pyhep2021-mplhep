@@ -9,7 +9,7 @@ dependencies:
   - matplotlib
   - boost-histogram >=1.1.0
   - jupyterlab >=2
-  - rise
+  - rise == 5.6.1
   - jupyter_contrib_nbextensions
   - jupyter_nbextensions_configurator
   - mscorefonts
