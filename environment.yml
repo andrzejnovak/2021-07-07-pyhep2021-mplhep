@@ -2,17 +2,17 @@ name: mplhep_env
 channels:
   - conda-forge
 dependencies:
-  - python==3.7
+  - python==3.8
   - pip
   - pandas
-  - root
-  - matplotlib
-  - boost-histogram >=1.1.0
-  - jupyterlab >=2
-  - rise == 5.6.1
-  - jupyter_contrib_nbextensions
-  - jupyter_nbextensions_configurator
-  - mscorefonts
+  # - root
+  # - matplotlib
+  # - boost-histogram >=1.1.0
+  # - jupyterlab >=2
+  # - rise == 5.6.1
+  # - jupyter_contrib_nbextensions
+  # - jupyter_nbextensions_configurator
+  # - mscorefonts
   - pip:
     - hist >=2.4.0
     - mplhep >=0.3.7
