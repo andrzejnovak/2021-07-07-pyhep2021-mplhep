@@ -17,3 +17,4 @@ dependencies:
     - mplhep >=0.3.7
     - uproot4
     - scikit-hep-testdata
+    - RISE
