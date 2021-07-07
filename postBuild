@@ -1,1 +1,1 @@
-jupyter nbextension enable splitcell/splitcell
+#jupyter nbextension enable splitcell/splitcell

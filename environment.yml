@@ -2,9 +2,10 @@ name: mplhep_env
 channels:
   - conda-forge
 dependencies:
-  - python ==3.8
+  - python==3.8
   - pip
   - pandas
+  - root
   - matplotlib
   - boost-histogram >=1.1.0
   - jupyterlab >=2
